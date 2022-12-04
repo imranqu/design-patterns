@@ -1,4 +1,4 @@
-package com.system.design.lld;
+package com.system.design.lld.creational;
 
 public class ConnectionPool {
     //Step 3
